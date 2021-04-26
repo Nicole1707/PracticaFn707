@@ -1,0 +1,9 @@
+C:\Users\Nicol\source\repos\pfinal707\CDatos\bin\Debug\CDatos.dll
+C:\Users\Nicol\source\repos\pfinal707\CDatos\bin\Debug\CDatos.pdb
+C:\Users\Nicol\source\repos\pfinal707\CDatos\bin\Debug\CEntidad.dll
+C:\Users\Nicol\source\repos\pfinal707\CDatos\bin\Debug\CEntidad.pdb
+C:\Users\Nicol\source\repos\pfinal707\CDatos\obj\Debug\CDatos.csprojAssemblyReference.cache
+C:\Users\Nicol\source\repos\pfinal707\CDatos\obj\Debug\CDatos.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\source\repos\pfinal707\CDatos\obj\Debug\CDatos.csproj.CopyComplete
+C:\Users\Nicol\source\repos\pfinal707\CDatos\obj\Debug\CDatos.dll
+C:\Users\Nicol\source\repos\pfinal707\CDatos\obj\Debug\CDatos.pdb

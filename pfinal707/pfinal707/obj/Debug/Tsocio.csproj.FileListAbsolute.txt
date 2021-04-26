@@ -1,0 +1,11 @@
+C:\Users\Nicol\source\repos\pfinal707\pfinal707\bin\Debug\pfinal707.exe.config
+C:\Users\Nicol\source\repos\pfinal707\pfinal707\bin\Debug\pfinal707.exe
+C:\Users\Nicol\source\repos\pfinal707\pfinal707\bin\Debug\pfinal707.pdb
+C:\Users\Nicol\source\repos\pfinal707\pfinal707\obj\Debug\Tsocio.csprojAssemblyReference.cache
+C:\Users\Nicol\source\repos\pfinal707\pfinal707\obj\Debug\pfinal707.Form1.resources
+C:\Users\Nicol\source\repos\pfinal707\pfinal707\obj\Debug\pfinal707.Properties.Resources.resources
+C:\Users\Nicol\source\repos\pfinal707\pfinal707\obj\Debug\pfinal707.Socio.resources
+C:\Users\Nicol\source\repos\pfinal707\pfinal707\obj\Debug\Tsocio.csproj.GenerateResource.cache
+C:\Users\Nicol\source\repos\pfinal707\pfinal707\obj\Debug\Tsocio.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\source\repos\pfinal707\pfinal707\obj\Debug\pfinal707.exe
+C:\Users\Nicol\source\repos\pfinal707\pfinal707\obj\Debug\pfinal707.pdb
